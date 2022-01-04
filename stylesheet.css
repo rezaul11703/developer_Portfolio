@@ -21,6 +21,8 @@ section{
     
 .st_Section img{
     width: 65%;
+    float:right;
+    margin: 10px 20px;
 }
 .link_Hire{
     text-decoration: none;
