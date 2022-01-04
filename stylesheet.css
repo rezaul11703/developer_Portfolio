@@ -6,4 +6,22 @@ h1{
 }
 h1 span{
     color:orange;
+section{
+    display:flex;
 }
+}
+.st_Section{  
+    width: 50%;
+    float:left;
+}
+.st_Section img{
+    width: 65%;
+}
+.link_Hire{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 10px 20px;
+    color:white;
+    border-radius: 5px;
+    text-align:center;
+}   
